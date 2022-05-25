@@ -1,0 +1,3 @@
+Progetto realizzato dagli studenti Signorelli Antonio (Numero Matricola:306824) e Abelli Filippo (Numero Matricola:309760).
+Il file di configurazione se non è presente viene generato da solo, inoltre nella carella zip è presente anche l'esercizio 7.1 sugli UNIT TEST.
+Nel caso in cui il gioco non rispondesse ai comandi della tastiera bisogna cliccare con il cursore sulla finestra del browser; è un problema che non dipende dal nostro programma.
